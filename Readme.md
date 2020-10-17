@@ -1,9 +1,5 @@
 # 👋 Hello !
 
-## my name is Hugo Borini i'm
-
-
-
 ### Here my trophy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hugoborini&theme=onedark)](https://github.com/hugoborini/github-profile-trophy)
