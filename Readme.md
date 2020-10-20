@@ -11,3 +11,5 @@
 
 ### and thats my stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugoborini&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=hugoborini)
